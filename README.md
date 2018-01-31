@@ -3,7 +3,7 @@
 
 Simple game that has a evil circle that eats all the balls.
 You have to consume all balls in less time.
-HTML, CSS and javascript are use to make this.
+HTML, CSS and javascript were used.
 
 
 
